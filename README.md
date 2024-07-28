@@ -19,8 +19,8 @@ Average Speed of Answer (Card Visualization)
 This card displays the average speed of answer in seconds, which is 67.52 seconds. It provides a quick metric to understand how quickly calls are being answered on average.
 Agent Statistics (Table)
 This table lists detailed statistics for individual agents, including:
-# of answered calls: Number of calls answered by each agent.
-# of resolved calls: Number of calls resolved by each agent.
+#of answered calls: Number of calls answered by each agent.
+#of resolved calls: Number of calls resolved by each agent.
 Average Satisfaction Rate: The average satisfaction score for each agent.
 Average Speed of Answer: The average time in seconds it took for each agent to answer a call.
 Example statistics:
